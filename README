@@ -1,0 +1,13 @@
+Welcome to the Task List App !!!
+
+The general ideea behind this app is to have a way to manage a list of tasks.
+As functionalities go, you can add a new task from the input present in the single page app.
+The task that you added is saved in the Firebase API by way of a "POST" method.
+
+The app was developed in React with the help of HTML & CSS and I used Promises to send the input content to the Firebase API along with 'async/await' functions.
+
+The purpose behind this app is to just save my daily tasks.
+
+Check out the custom favicon *wink *wink
+
+Hope you enjoy !!!
